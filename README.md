@@ -1,12 +1,22 @@
-# React + Vite
+# 🕵️‍♂️ GitHub Profile Detector
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **responsive web application** that analyzes GitHub profiles and visualizes user data, including repositories, languages, location, and activity trends.  
+Built with **React.js** and integrated with the **GitHub REST API**, it provides real-time insights into a user's GitHub activity and project statistics.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **🔍 GitHub User Search** – Search for any GitHub username and get detailed stats
+- **📊 Repository Overview** – Total no of all repositories with details
+- **⚡ Real-Time Data** – Fetches data instantly using the GitHub API
+- **📱 Responsive UI** – Works seamlessly on mobile, tablet, and desktop
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, CSS
+- **API Integration:** GitHub REST API
+- **State Management:** React Hooks, Context API
+
